@@ -15,3 +15,5 @@ MR
 --
 
 Data used is found here: Citi Bike Data (https://citibikenyc.com/system-data)
+
+Due to the enormous size of the datasets, I was unable to load them to the repository.
